@@ -1,4 +1,4 @@
-# Constraint Satisfaction Problem Solver for Sudoku Puzzles
+# Constraint Satisfaction Problem Solver for Sudoku
 
 ## Configuring the program
 
