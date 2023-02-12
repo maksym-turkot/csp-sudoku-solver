@@ -1,6 +1,6 @@
-# Constraint Satisfaction Problem Solver for Sudoku
+# Constraint Satisfaction Problem Solver for Sudoku and Module Performance Analysis
 
-CSPs are a very important subset of search problems in AI because their versatility allows many applications and the amount of research has made the solvers very efficient. This project implements one of such solvers designed specifically for solving Sudoku puzzles. I will run the program on the same set of puzzles three times using plain depth-first search algorithm (DFS), AC-3 preprocessing with DFS, and again utilizing forward-checking algorithm. I will then compare the performance results of each algorithm.
+CSPs are a very important subset of search problems in AI because their versatility allows many applications and the amount of research has made the solvers very efficient. This project implements one of such solvers designed specifically for solving Sudoku puzzles. I will run the program on the same set of puzzles with three different module configurations, using plain depth-first search algorithm (DFS), AC-3 preprocessing with DFS, and again utilizing DFW with a forward-checking algorithm. I will then compare the performance results of each algorithm.
 
 ## Configuring the program
 
