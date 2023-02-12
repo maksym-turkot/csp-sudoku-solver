@@ -1,6 +1,6 @@
-========================
-Configuring the program
-========================
+# Constraint Satisfaction Problem Solver for Sudoku Puzzles
+
+## Configuring the program
 
 Program automatically reads puzzle files and figures out puzzle type based on the filename. It takes no input from the terminal.
 
@@ -13,9 +13,7 @@ To have the program parse files correctly, puzzleType must spell “classic”, 
 
 The classic puzzle file must contain cell numbers written in order, separated by a whitespace. Order of numbers must be as they appear in the puzzle: left to right, top to bottom. Empty cells should be represented by a “0”.  Additional whitespace can be added for readability.
 
-========================
-Running the program
-========================
+## Running the program
 
 Program was developed using Java.
 
