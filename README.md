@@ -8,7 +8,7 @@ Program automatically reads puzzle files and figures out puzzle type based on th
 
 Puzzles are located in the data/puzzles folder. The filename of the puzzle should have the following form: 
 
-<puzzleType>_<id>.txt
+\<puzzleType\>_\<id\>.txt
 classic_3.txt
 
 To have the program parse files correctly, puzzleType must spell “classic”, “triple”, or “killer”. Only classic puzzles can be parsed at the moment.
